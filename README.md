@@ -1,2 +1,2 @@
 # jspractice
-Javascript Files for Practice
+Javascript Exercises for Practice
